@@ -1,6 +1,6 @@
 # Agent Skills Library for Programming Workflows
 
-A curated, production-focused library of “agent skills” for programming workflows (code review, systematic debugging, verification-before-completion, subagent orchestration, etc.).
+A curated, production-focused library of “agent skills” for programming workflows (code review, systematic debugging, verification-before-completion, subagent orchestration, planning, etc.).
 
 ## Provenance / Upstream
 
