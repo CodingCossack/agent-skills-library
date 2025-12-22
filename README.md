@@ -10,7 +10,7 @@ This repository is an updated, ground-up rework of the skills from **obra/superp
 - This repo: polished + reorganised skills, tighter workflows, clearer templates, and improved guardrails.
 
 ### What changed vs upstream (high level)
-- Rewritten skill docs for stronger execution order + verification gates.
+- Made changes to all skills (except writing-skills) for stronger execution order + verification gates.
 - More consistent structure across skills (references/templates/scripts where needed).
 - Better “do the thing” ergonomics: fewer meta instructions, more executable steps.
 - Lot's more
