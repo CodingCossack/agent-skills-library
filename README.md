@@ -13,7 +13,7 @@ This repository is an updated, ground-up rework of the skills from **obra/superp
 - Made changes to all skills (except writing-skills) for stronger execution order + verification gates.
 - More consistent structure across skills (references/templates/scripts where needed).
 - Better “do the thing” ergonomics: fewer meta instructions, more executable steps.
-- Lot's more
+- Many more tiny edits
 
 ## License / Attribution
 Upstream: obra/superpowers (MIT). This repo retains attribution and remains MIT-compatible.
